@@ -1,0 +1,9 @@
+title: DonnerApp
+author: contact@donnerapp.com
+url: https://www.donnerapp.com
+
+markdown: kramdown
+
+exclude:
+  - CNAME
+  - README.md
